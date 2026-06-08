@@ -1,6 +1,15 @@
 {
   "name": "@agentdeskai/browser-tools-mcp",
   "version": "1.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AgentDeskAI/browser-tools-mcp.git",
+    "directory": "browser-tools-mcp"
+  },
+  "bugs": {
+    "url": "https://github.com/AgentDeskAI/browser-tools-mcp/issues"
+  },
+  "homepage": "https://github.com/AgentDeskAI/browser-tools-mcp/tree/main/browser-tools-mcp#readme",
   "description": "MCP (Model Context Protocol) server for browser tools integration",
   "main": "dist/mcp-server.js",
   "bin": {
